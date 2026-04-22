@@ -1,72 +1,90 @@
-<h1 align="center">🚀 Adrianno Santtos</h1>
-
+<!-- Banner -->
 <p align="center">
-  QA Engineer Júnior | Testes Manuais & Automação | API | Mobile | CI/CD
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=Adriano%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="mailto:j.driannosanttos@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/adriano-santos-qa">LinkedIn</a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Engineer+Júnior;Testes+Manuais+%7C+Automação+%7C+API;Mobile+%7C+Performance+%7C+CI%2FCD&center=true&width=700&height=45" />
 </p>
 
 <p align="center">
-  Profissional em transição de carreira para Qualidade de Software, com formação em Análise e Desenvolvimento de Sistemas pela Uninassau e especialização técnica em QA pela EBAC e Lume Stack.
+  <a href="mailto:j.driannosanttos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-j.driannosanttos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adriano-santos-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-adriano--santos--qa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdriannoSanttos">
+    <img src="https://img.shields.io/badge/GitHub-AdriannoSanttos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um profissional analítico, detalhista e proativo, com foco em qualidade, confiabilidade e melhoria contínua.
+Sou um profissional em transição de carreira para **Qualidade de Software**, com formação em **Análise e Desenvolvimento de Sistemas** pela Uninassau e especialização técnica em QA pela **EBAC** e **Lume Stack**.
 
-Tenho vivência com:
-- testes manuais funcionais, exploratórios e de regressão;
-- criação e execução de casos de teste;
-- registro e acompanhamento de bugs;
-- validação de correções e critérios de aceitação;
-- colaboração com times de desenvolvimento;
-- organização de backlog e acompanhamento em Jira e Trello.
+Tenho perfil analítico, detalhista e proativo, com foco em qualidade, confiabilidade e melhoria contínua. Atuo com testes manuais, automação, API, mobile e performance, sempre buscando apoiar o time com entregas mais seguras e consistentes.
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade como QA Engineer Júnior, com foco em qualidade de software, automação de testes e validação de aplicações web, APIs e mobile.
+Busco uma oportunidade como **QA Engineer Júnior**, com foco em testes de software, automação, validação de aplicações web, APIs e mobile.
 
-Tenho como objetivo contribuir com a confiabilidade dos produtos, reduzir falhas em produção e evoluir continuamente em práticas de testes e engenharia de qualidade.
+Meu objetivo é contribuir para a estabilidade dos produtos, reduzir falhas em produção e evoluir continuamente em práticas de qualidade e engenharia de testes.
 
 ---
 
 ## 🧠 Principais competências
 
-- ✔️ Testes manuais funcionais, exploratórios e de regressão  
-- ✔️ Automação de testes com Cypress, Playwright e Appium  
-- ✔️ Testes de API com REST, GraphQL, Supertest e PactumJS  
-- ✔️ Testes de performance com K6  
-- ✔️ Integração contínua com GitHub Actions e CI/CD  
-- ✔️ Criação de casos de teste e documentação  
-- ✔️ Report e gestão de bugs  
-- ✔️ Metodologias ágeis, Scrum e Kanban  
+<p align="left">
+  <img src="https://img.shields.io/badge/Testes_Manuais-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automação_de_Testes-111827?style=for-the-badge&logo=webdriverio&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Testing-6B7280?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile_Testing-E11D48?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance_Testing-7C3AED?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0F766E?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-Scrum_%26_Kanban-334155?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-<p>
+### Automação e testes
+<p align="left">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PactumJS-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mochawesome-4B32C3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+### Gestão, colaboração e DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### Base técnica
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6D28D9?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-0F766E?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
@@ -88,31 +106,41 @@ Tenho como objetivo contribuir com a confiabilidade dos produtos, reduzir falhas
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [TCC-EBAC-QE](https://github.com/AdriannoSanttos/TCC-EBAC-QE)  
-Automação completa: API, UI, Mobile, Performance e CI/CD.
+### 🔹 [TCC-EBAC-QE](https://github.com/AdriannoSanttos/TCC-EBAC-QE)
+
+Automação completa para API, UI Web, Mobile, Performance e CI/CD.
+
+**Stack:** Jest, Supertest, Cypress, Appium, K6, GitHub Actions
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [UI-TEST-EBACSHOP](https://github.com/AdriannoSanttos/UI-TESTING-CYPRESS---EBACSHOP)  
-Testes E2E com Cypress + CI/CD + Docker.
+### 🔹 [UI-TEST-EBACSHOP](https://github.com/AdriannoSanttos/UI-TESTING-CYPRESS---EBACSHOP)
+
+Testes E2E com Cypress, pipeline CI/CD e Docker.
+
+**Stack:** Cypress, Mochawesome, GitHub Actions, Docker
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [EBACREST-GRAPHQL](https://github.com/AdriannoSanttos/4-ebac-rest-graphql-tests)  
-Testes REST + GraphQL com PactumJS.
+### 🔹 [EBACREST-GRAPHQL](https://github.com/AdriannoSanttos/4-ebac-rest-graphql-tests)
+
+Testes REST e GraphQL com validação de contratos.
+
+**Stack:** PactumJS, Mocha, Mochawesome, Node.js
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Em breve...  
-Mais projetos de automação e QA.
+### 🔹 Em breve...
+
+Mais projetos de automação e QA serão adicionados aqui.
 
 </td>
 </tr>
@@ -135,14 +163,32 @@ Mais projetos de automação e QA.
 
 ## 📫 Contato
 
-- E-mail: [j.driannosanttos@gmail.com](mailto:j.driannosanttos@gmail.com)
-- LinkedIn: [linkedin.com/in/adriano-santos-qa](https://linkedin.com/in/adriano-santos-qa)
+<p align="left">
+  <a href="mailto:j.driannosanttos@gmail.com">
+    <img src="https://img.shields.io/badge/E-mail-j.driannosanttos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adriano-santos-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdriannoSanttos&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriannoSanttos&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdriannoSanttos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriannoSanttos&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdriannoSanttos&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Vamos nos conectar
+
+<p align="center">
+  Estou aberto a oportunidades júnior, projetos, networking e trocas sobre qualidade de software, automação de testes e boas práticas de QA.
 </p>
