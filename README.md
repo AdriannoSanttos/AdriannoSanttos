@@ -1,11 +1,11 @@
-<h1 align="center">👋 Olá, eu sou o Adriano Santos</h1>
+<h1 align="center">🚀 Adrianno Santtos</h1>
 
 <p align="center">
-  Engenheiro de Qualidade de Software | QA em transição de carreira | Em busca de oportunidade Júnior
+  QA Engineer | Test Automation | API | Mobile | Performance
 </p>
 
 <p align="center">
-  Profissional em formação em Análise e Desenvolvimento de Sistemas pela Uninassau e especialização em Qualidade de Software pela EBAC e Lume Stack. Tenho experiência com testes manuais, automação de testes, testes de API, mobile, performance e integração com CI/CD.
+  Profissional em transição de carreira para Qualidade de Software, com formação em Análise e Desenvolvimento de Sistemas pela Uninassau e especialização técnica em QA pela EBAC e Lume Stack.
 </p>
 
 ---
@@ -26,15 +26,28 @@ Tenho vivência com:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Automação e testes:** Cypress, Playwright, Appium, Jest, Supertest, PactumJS, Mocha, Mochawesome, K6, Postman, REST API, GraphQL  
-**Gestão e colaboração:** Jira, Trello, Git, GitHub, GitHub Actions, Docker, documentação de testes  
-**Base técnica:** SQL, Node.js, lógica de programação aplicada a testes, Scrum, Kanban
+<p>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PactumJS-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Experiência
 
-### Click Max — QA Tester Voluntário
+### Click Max — QA Tester Voluntário  
 **Nov/2025 a Jan/2026**
 
 - Atuação em squad de produtos com foco predominante em testes manuais exploratórios.
@@ -47,17 +60,37 @@ Tenho vivência com:
 
 ## 📌 Projetos em destaque
 
-### TCC-EBAC-QE
-Automação de testes para API com Jest/Supertest, UI Web com Cypress, Mobile com Appium, performance com K6 e CI/CD com GitHub Actions.  
-Identificação de bugs críticos e pontos de melhoria em performance, com suíte de testes integrada e evidências documentadas.
+<table>
+<tr>
+<td width="50%">
 
-### UI-TEST-EBACSHOP
-Automação de interface com Cypress, pipeline CI/CD com GitHub Actions e Docker.  
-Suíte de testes para fluxos de cadastro, carrinho e checkout, com relatórios Mochawesome.
+### 🔹 [TCC-EBAC-QE](https://github.com/AdriannoSanttos/TCC-EBAC-QE)  
+Automação completa: API, UI, Mobile, Performance e CI/CD.
 
-### EBACREST-GRAPHQL
-Automação de testes para API REST e GraphQL com PactumJS, incluindo validação de contratos.  
-Estrutura organizada com Node.js, Mocha e Mochawesome.
+</td>
+<td width="50%">
+
+### 🔹 [UI-TEST-EBACSHOP](https://github.com/AdriannoSanttos/UI-TESTING-CYPRESS---EBACSHOP)  
+Testes E2E com Cypress + CI/CD + Docker.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 [EBACREST-GRAPHQL](https://github.com/AdriannoSanttos/4-ebac-rest-graphql-tests)  
+Testes REST + GraphQL com PactumJS.
+
+</td>
+<td width="50%">
+
+### 🔹 Em breve...  
+Mais projetos de automação e QA.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,5 +109,14 @@ Estrutura organizada com Node.js, Mocha e Mochawesome.
 
 ## 📫 Contato
 
-- E-mail: j.driannosanttos@gmail.com
-- LinkedIn: linkedin.com/in/adriano-santos-qa
+- E-mail: [j.driannosanttos@gmail.com](mailto:j.driannosanttos@gmail.com)
+- LinkedIn: [linkedin.com/in/adriano-santos-qa](https://linkedin.com/in/adriano-santos-qa)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdriannoSanttos&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriannoSanttos&layout=compact&theme=tokyonight" />
+</p>
