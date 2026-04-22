@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Engineer+Júnior;Testes+Manuais+%7C+Automação+%7C+API;Mobile+%7C+Performance+%7C+CI%2FCD&center=true&width=700&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Engineer+J%C3%BAnior;Testes+Manuais+%7C+Automac%C3%A3o+%7C+API;Mobile+%7C+Performance+%7C+CI%2FCD&center=true&width=700&height=45" />
 </p>
 
 <p align="center">
   <a href="mailto:j.driannosanttos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-j.driannosanttos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E-mail-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/adriano-santos-qa">
-    <img src="https://img.shields.io/badge/LinkedIn-adriano--santos--qa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/adriano-santos-qa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AdriannoSanttos">
     <img src="https://img.shields.io/badge/GitHub-AdriannoSanttos-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -23,9 +23,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um profissional em transição de carreira para **Qualidade de Software**, com formação em **Análise e Desenvolvimento de Sistemas** pela Uninassau e especialização técnica em QA pela **EBAC** e **Lume Stack**.
+Sou **Adriano Santos**, profissional em transição de carreira para **Qualidade de Software**, com formação em **Análise e Desenvolvimento de Sistemas** pela Uninassau e especialização técnica em QA pela **EBAC** e **Lume Stack**.
 
-Tenho perfil analítico, detalhista e proativo, com foco em qualidade, confiabilidade e melhoria contínua. Atuo com testes manuais, automação, API, mobile e performance, sempre buscando apoiar o time com entregas mais seguras e consistentes.
+Tenho perfil analítico, detalhista e proativo, com foco em qualidade, confiabilidade e melhoria contínua. Atuo com testes manuais, automação, API, mobile e performance, buscando apoiar times com entregas mais seguras e consistentes.
 
 ---
 
@@ -165,9 +165,9 @@ Mais projetos de automação e QA serão adicionados aqui.
 
 <p align="left">
   <a href="mailto:j.driannosanttos@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-j.driannosanttos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-j.driannosanttos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/adriano-santos-qa">
+  <a href="https://www.linkedin.com/in/adriano-santos-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -190,5 +190,5 @@ Mais projetos de automação e QA serão adicionados aqui.
 ## 🤝 Vamos nos conectar
 
 <p align="center">
-  Estou aberto a oportunidades júnior, projetos, networking e trocas sobre qualidade de software, automação de testes e boas práticas de QA.
+  Aberto a oportunidades júnior, projetos, networking e trocas sobre qualidade de software, automação de testes e boas práticas de QA.
 </p>
