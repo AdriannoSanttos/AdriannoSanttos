@@ -1,7 +1,12 @@
 <h1 align="center">🚀 Adrianno Santtos</h1>
 
 <p align="center">
-  QA Engineer | Test Automation | API | Mobile | Performance
+  QA Engineer Júnior | Testes Manuais & Automação | API | Mobile | CI/CD
+</p>
+
+<p align="center">
+  <a href="mailto:j.driannosanttos@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/adriano-santos-qa">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -21,6 +26,27 @@ Tenho vivência com:
 - validação de correções e critérios de aceitação;
 - colaboração com times de desenvolvimento;
 - organização de backlog e acompanhamento em Jira e Trello.
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade como QA Engineer Júnior, com foco em qualidade de software, automação de testes e validação de aplicações web, APIs e mobile.
+
+Tenho como objetivo contribuir com a confiabilidade dos produtos, reduzir falhas em produção e evoluir continuamente em práticas de testes e engenharia de qualidade.
+
+---
+
+## 🧠 Principais competências
+
+- ✔️ Testes manuais funcionais, exploratórios e de regressão  
+- ✔️ Automação de testes com Cypress, Playwright e Appium  
+- ✔️ Testes de API com REST, GraphQL, Supertest e PactumJS  
+- ✔️ Testes de performance com K6  
+- ✔️ Integração contínua com GitHub Actions e CI/CD  
+- ✔️ Criação de casos de teste e documentação  
+- ✔️ Report e gestão de bugs  
+- ✔️ Metodologias ágeis, Scrum e Kanban  
 
 ---
 
