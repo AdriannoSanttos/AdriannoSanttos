@@ -4,13 +4,19 @@
 </p>
 
 <p align="center">
-  <strong>QA Engineer Júnior | Testes Manuais & Automação | API | Mobile | CI/CD</strong>
+  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Engineer+J%C3%BAnior;Testes+Manuais+%7C+Automac%C3%A3o+%7C+API;Mobile+%7C+Performance+%7C+CI%2FCD&center=true&width=700&height=45" />
 </p>
 
 <p align="center">
-  <a href="mailto:j.driannosanttos@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/adriano-santos-qa/">LinkedIn</a> • 
-  <a href="https://github.com/AdriannoSanttos">GitHub</a>
+  <a href="mailto:j.driannosanttos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-j.driannosanttos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adriano-santos-qa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdriannoSanttos">
+    <img src="https://img.shields.io/badge/GitHub-AdriannoSanttos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -35,7 +41,7 @@ Meu objetivo é contribuir para a estabilidade dos produtos, reduzir falhas em p
 
 <p align="left">
   <img src="https://img.shields.io/badge/Testes_Manuais-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automação_de_Testes-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automação_de_Testes-111827?style=for-the-badge&logo=webdriverio&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Testing-6B7280?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile_Testing-E11D48?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Performance_Testing-7C3AED?style=for-the-badge&logo=k6&logoColor=white" />
@@ -59,7 +65,7 @@ Meu objetivo é contribuir para a estabilidade dos produtos, reduzir falhas em p
   <img src="https://img.shields.io/badge/Mochawesome-4B32C3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
@@ -77,8 +83,8 @@ Meu objetivo é contribuir para a estabilidade dos produtos, reduzir falhas em p
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kanban-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-6D28D9?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-0F766E?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
