@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:j.driannosanttos@gmail.com">
+  <a href="mailto:j.adriannosanttos@gmail.com">
     <img src="https://img.shields.io/badge/Email-j.driannosanttos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adriano-santos-qa/">
