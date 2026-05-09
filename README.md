@@ -164,8 +164,8 @@ Mais projetos de automação e QA serão adicionados aqui.
 ## 📫 Contato
 
 <p align="left">
-  <a href="mailto:j.driannosanttos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-j.driannosanttos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:j.adriannosanttos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-j.adriannosanttos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adriano-santos-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
